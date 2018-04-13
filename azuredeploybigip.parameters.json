@@ -6,7 +6,7 @@
             "value": "azureuser"
         }, 
         "adminPassword": {
-            "value": "AwsAzure123!"
+            "value": "GEN_UNIQUE!"
         }, 
         "dnsLabel": {
             "value": "azure.local"
